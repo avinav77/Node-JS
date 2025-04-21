@@ -224,4 +224,3 @@
 // };
 // setTimeout(youGotThis, 10000); // This will log "You got this!" after 1 seconds
 // setInterval(youGotThis, 1000); // This will log "You got this!" every 1 seconds
-let val=10;
